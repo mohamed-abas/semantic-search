@@ -57,9 +57,11 @@ The model can be fine-tuned for particular NLP tasks, such as text classificatio
 State-of-the-Art Performance: Models using the masked and permuted pre-training technique have produced enhanced results on a variety of NLP benchmarks and tasks, proving their prowess in understanding and generating natural language.
 
 The structure of MPNet.
+
 ![The structure of MPNet.](images/001.png "The structure of MPNet.")
 
 The attention mask of MPNet
+
 ![The attention mask of MPNet](images/002.png "The attention mask of MPNet")
 
 **1.2 Benifits of MPNet**
